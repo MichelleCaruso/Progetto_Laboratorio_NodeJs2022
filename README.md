@@ -1,2 +1,3 @@
 # Progetto_Laboratorio_NodeJs2022
-Progetto laboratorio Node js 2022
+Progetto laboratorio Node js 2022.
+Il server web presenta un menù con cui l'utente può navigare tra le varie pagine. Nella home il saluto è generato da un modulo che passa il nome 'utente' e attraverso una funzione async away viene generata una scritta che prende due parametri statici predefiniti. Nella seconda sezione vengono stampati i contenuti presenti all'interno di due file txt. Nella terza sezione vengono stampati i nomi di tre utenti inseriti all'interno di un array. Nell'ultima sezione si può trovare il contenuto della pagina di wikipedia che tratta del framework angular.
